@@ -1421,7 +1421,7 @@ Alternatively, Adobe Flash Professional can also be used for syntax checking - p
     <value>Options</value>
   </data>
   <data name="PluginCore.Docking.ToolTipWindowList" xml:space="preserve">
-    <value>Window List</value>
+    <value>Window List. Shift+Click to sort by file name.</value>
   </data>
   <data name="ProjectManager.Category.Advanced" xml:space="preserve">
     <value>Advanced</value>
